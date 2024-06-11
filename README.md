@@ -21,7 +21,7 @@ sudo apt-get install ripgrep xclip
 
    2.1. Download [FiraCode NerdFont](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.0/FiraCode.zip).
 
-   2.2. Unzip and paste font files directly to `~./local/share/fonts`
+   2.2. Unzip and paste font files directly to `~./local/share/fonts`.
 
    2.3. Set FiraCode NerdFont as the terminal font.
 
