@@ -32,7 +32,7 @@ sudo apt-get install ripgrep xclip
 #### Clone this repository
 
 ```shell
-git clone https://github.com/EduardoV-dev/astronvim-config ~/.config/nvim/lua/user
+git clone git@github.com:EduardoV-dev/nvim-config.git ~/.config/nvim
 ```
 
 #### Start Neovim
