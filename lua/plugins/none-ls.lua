@@ -1,4 +1,4 @@
-local u = require("utils/keymaps")
+local u = require("utils.keymaps")
 
 return {
 	"nvimtools/none-ls.nvim",
