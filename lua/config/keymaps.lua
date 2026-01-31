@@ -3,7 +3,6 @@ local opts = { noremap = true, silent = true }
 
 keymap.set("n", "x", '"_x')
 
-keymap.set("n", "<C-a>", "gg<S-v>G") -- Select all
 keymap.set("i", "kj", "<Esc>", opts)
 
 -- Remove snacks terminal mappings
