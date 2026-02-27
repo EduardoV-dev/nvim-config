@@ -18,6 +18,7 @@ A modern Neovim configuration built on top of [LazyVim](https://www.lazyvim.org/
 
 - **Neovim** >= 0.9.0 (needs to be built with LuaJIT)
 - **Git** >= 2.19.0 (for partial clones support)
+- **opencode** CLI (required for `opencode.nvim`)
 - A **Nerd Font** (optional, but recommended)
 - **lazygit** (optional, for git integration)
 - **ripgrep** (optional, for telescope live grep)
@@ -34,6 +35,17 @@ sudo apt install neovim
 
 # Install optional dependencies
 sudo apt install ripgrep fd-find
+```
+
+#### opencode CLI
+
+This config uses `opencode.nvim`, which requires the `opencode` CLI installed on your machine.
+
+```bash
+curl -fsSL https://opencode.ai/install | bash
+
+# verify
+opencode --version
 ```
 
 ## Installation
